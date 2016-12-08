@@ -1,4 +1,46 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 what is in mars
 
 there is no life
@@ -27,4 +69,8 @@ But the mummy will appreciate
 =======
 But the mummy will appreciate the lack of humidity.
 Marsians are shorter from men from Andromedea
+<<<<<<< HEAD
 >>>>>>> 59ad126fdc96de32d5c05e9cef9a95a1be1ac46a
+=======
+But Martians have FTL drive starships
+>>>>>>> b9f49ddf70a04dd723e6421fdf1b629829cc0eeb

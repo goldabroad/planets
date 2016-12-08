@@ -14,4 +14,17 @@ Cold and dry, but everthing is my favourite colour. It's actually a
 cool 
 place!
 The two moons may be a problem for a wolfman.
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 But the mummy will appreciate 
+=======
+But the mummy will appreciate the lack of humidity.
+Marsians are shorter from men from Andromedea
+>>>>>>> 59ad126fdc96de32d5c05e9cef9a95a1be1ac46a
